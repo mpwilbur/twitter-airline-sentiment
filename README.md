@@ -1,5 +1,5 @@
 # twitter-airline-sentiment
-This is a short project on classifying the sentiment of Tweets
+This is a short project on classifying the sentiment of Tweets in Python
 
 In this project I create a neural network model and a linear classifier model for classifying the sentiment of Airline Tweets into Positive/Neutral/Negative using pretrained GloVe vector embeddings
 
